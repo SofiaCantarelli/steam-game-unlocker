@@ -1,5 +1,11 @@
-# 01-image-basics
+# steam game unlocker
 
-See https://ubern-mialab.gitbook.io/course/exercises/image-basics for more instructions on how to work on this assignment! 
+family sharing unlocker for steam games. lets you play games your friends own when they are offline.
 
-If you have any questions or are stuck anywhere, please reach out to one of your friendly neighborhood TA whose contact details are on the course page too.
+## usage
+
+1. grab the exe from releases
+2. close steam first
+3. run it and pick the account + games
+
+been using this for a year, no bans
