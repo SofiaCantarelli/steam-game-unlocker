@@ -127,8 +127,8 @@ def register_images(img, label_img, atlas_img):
         atlas_img, img
     )  # type: sitk.ImageRegistrationMethod
     transform = registration_method.Execute(
-    fixed=atlas_img,
-    moving=img
+    atlas_img,
+    img
     )
 
     # todo: apply the obtained transform to register the image (img) to the atlas image (atlas_img)
